@@ -1,0 +1,7 @@
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\bin\Debug\exercitiiClase.exe.config
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\bin\Debug\exercitiiClase.exe
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\bin\Debug\exercitiiClase.pdb
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\obj\Debug\exercitiiClase.csproj.AssemblyReference.cache
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\obj\Debug\exercitiiClase.csproj.CoreCompileInputs.cache
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\obj\Debug\exercitiiClase.exe
+M:\FACULTATE\ANUL 3\SEMESTRUL 1\Baze de Cunostiinte\exercitiiClase\obj\Debug\exercitiiClase.pdb
